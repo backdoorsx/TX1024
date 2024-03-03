@@ -1,4 +1,4 @@
-# TX1024
+# TX1024 - Arduino FPV Drone transmitter.
 
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/6dce0ad5-617a-4a83-a9df-e4ba24a00534)
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/e6473ee6-2b87-4ede-af18-a9b490d82235)
