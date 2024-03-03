@@ -25,7 +25,7 @@ Define SPI pins:
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/e6473ee6-2b87-4ede-af18-a9b490d82235)
 
 
-
+https://cad.onshape.com/documents/26ce1305968a583c10c1b494/w/571ad2c786514950049336b1/e/3567d4a96378b2704da86544
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/72e7e227-87c1-4ba0-8650-bfd708832623)
 
 
