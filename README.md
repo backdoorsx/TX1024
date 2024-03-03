@@ -77,6 +77,8 @@ Rotary encoder module:
 
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/78ce6b67-55fc-40c5-b712-d32a76a0b5bf)
 
+# RX1024 SBUS
+https://github.com/backdoorsx/RX1024-SBUS.git
 
 ## License
 
