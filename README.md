@@ -8,6 +8,18 @@ Arduino + NRF24 radio receiver 100mW:
   - menu check baterry
   - menu settings analog and mode
 
+```
+Define SPI pins:
+
+  D52 - SCK
+  D50 - MISO
+  D51 - MOSI
+  D48 - SCN -------+
+  D49 - CE ----+   |
+               |   |
+    RF24 radio(49, 48);
+```
+
 
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/6dce0ad5-617a-4a83-a9df-e4ba24a00534)
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/e6473ee6-2b87-4ede-af18-a9b490d82235)
