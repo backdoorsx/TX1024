@@ -1,4 +1,4 @@
-# TX1024 - Arduino FPV Drone transmitter.
+# TX1024 - Arduino FPV Drone transmitter
 
 Arduino + NRF24 radio receiver:
   - 4x analog channel, 0-1023 remap to 1000-2000
