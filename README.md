@@ -29,7 +29,7 @@ Define SPI pins:
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/72e7e227-87c1-4ba0-8650-bfd708832623)
 
 
-Arduino MEGA:
+Arduino MEGA 2560 PRO Embed (atmega2560-16AU):
 
 ![image](https://github.com/backdoorsx/TX1024/assets/18431164/a061dc31-3c70-4f78-8f34-d6222522f8bd)
 
